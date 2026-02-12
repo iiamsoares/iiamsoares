@@ -1,16 +1,18 @@
-## Hi there 👋
+# Pedro Henrique
 
-<!--
-**iiamsoares/iiamsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação (Backend + Automação + IA)
 
-Here are some ideas to get you started:
+Atualmente atuando com:
+- Python
+- Java
+- APIs REST
+- Automação de processos
+- Power BI e dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesses:
+- Inteligência artificial aplicada
+- Integração de sistemas
+- Backend e automação
+- Soluções reais de negócio
+
+Projetos em destaque abaixo 👇
