@@ -1,4 +1,4 @@
-# Pedro Henrique
+# Pedro Henrique 🧑🏻‍🦱
 
 <p align="center">
   <img src="assets/ascii_cafe_terminal.gif" width="900" />
@@ -6,7 +6,7 @@
 
 💻 Desenvolvedor em formação (Backend + Automação + IA)
 
-Atualmente atuando com:
+Dentro do atual momento, estou atuando com as seguintes tecnologias:
 - Python
 - Java
 - APIs REST
@@ -19,4 +19,4 @@ Interesses:
 - Backend e automação
 - Soluções reais de negócio
 
-Projetos em destaque abaixo 👇
+
