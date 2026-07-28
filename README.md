@@ -1,24 +1,34 @@
-# System.out.print("Bem-vindo ao meu GitHub! 👋🏻");
+# print("Bem-vindo ao meu GitHub! 👋🏻");
 
 <p align="center">
   <img src="assets/ascii_cafe_terminal.gif" width="900" />
 </p>
 
-🧑🏻‍🦱 Olá Meu nome é Pedro Henrique, sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre), com foco em desenvolvimento de software e experiência prática em projetos reais. Atuo com desenvolvimento web utilizando Java, Spring Boot, JavaScript e React, além de bancos de dados relacionais e versionamento com Git. Tenho vivência tanto em desenvolvimento quanto em suporte técnico corporativo, o que me proporcionou uma visão completa do ambiente de TI, desde a base de infraestrutura até a entrega de soluções digitais orientadas ao usuário. Sou proativo, dedicado e tenho facilidade em aprender novas tecnologias. Busco uma oportunidade de estágio ou posição júnior em desenvolvimento onde eu possa evoluir tecnicamente, colaborar com equipes experientes e contribuir ativamente para a criação de soluções eficientes e escaláveis.
+# Pedro Henrique 👋
 
-💻 Desenvolvedor em formação (Backend + Automação + IA)
+Desenvolvedor Backend Python Júnior, atuando na construção de
+automações, integrações via APIs REST e soluções internas utilizadas
+em ambiente corporativo.
 
-Dentro do atual momento, estou atuando com as seguintes tecnologias:
+Atualmente trabalho principalmente com:
+
 - Python
-- Java
 - APIs REST
-- Automação de processos
-- Power BI e dados
-
-Interesses:
-- Inteligência artificial aplicada
+- PostgreSQL / Supabase
+- Docker
+- Git / GitHub
 - Integração de sistemas
-- Backend e automação
-- Soluções reais de negócio
+- Automação
+- IA aplicada
+
+## Projetos em destaque
+
+### ARNB
+Pipeline em Python para integração Bling → Supabase → Excel,
+com autenticação, paginação, idempotência e execução agendada.
+
+### OrcaHvac-AI
+Sistema RAG para recuperação de informações em catálogos técnicos
+utilizando OCR, embeddings, PostgreSQL/pgvector e busca semântica.
 
 
