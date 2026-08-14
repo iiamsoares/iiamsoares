@@ -10,6 +10,10 @@ Desenvolvedor Backend Python Júnior, atuando na construção de
 automações, integrações via APIs REST e soluções internas utilizadas
 em ambiente corporativo.
 
+<p align="center">
+  <img src="assets/space-shooter.gif" width="900" />
+</p>
+
 Atualmente trabalho principalmente com:
 
 - Python
