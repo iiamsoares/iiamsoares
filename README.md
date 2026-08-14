@@ -14,16 +14,27 @@ em ambiente corporativo.
   <img src="assets/space-shooter.gif" width="900" />
 </p>
 
-Atualmente trabalho principalmente com:
+## 🚀 Tecnologias & Ferramentas
 
-- Python
-- APIs REST
-- PostgreSQL / Supabase
-- Docker
-- Git / GitHub
-- Integração de sistemas
-- Automação
-- IA aplicada
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+</p>
 
 ## Projetos em destaque
 
